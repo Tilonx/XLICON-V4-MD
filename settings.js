@@ -17,8 +17,8 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
 //  * @project_name : XLICON-V4-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
+//  * @author : LORD TILONX 
+//  * @youtube : https://www.youtube.com/@Tilonx
 //  * @description : XLICON-V4 ,A Multi-functional whatsapp user bot.
 //*
 //*
@@ -27,7 +27,7 @@
 //Instagram: ahmmikun
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//WhatsApp: +233598275873
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -39,21 +39,21 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
-global.socialm = "GitHub: salmanytofficial" //ur github or insta name
-global.location = "Pakistan, Lahore, Sabzazar" //ur location
+global.ytname = "YT: Tilonx" //ur yt chanel name
+global.socialm = "GitHub: Tilonx" //ur github or insta name
+global.location = "Ghana, , Accra" //ur location
 
 //new
 global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
+global.ownernumber = ['233598275873'] //ur owner number, dont add more than one
+global.ownername = LORD TILONX' //ur owner name
 global.websitex = "https://youtube.com/@s4salmanyt"
 global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 global.themeemoji = '⛩'
 global.wm = "Xlicon Bot Inc."
-global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
+global.botscript = 'https://github.com/Tilonx/XLICON-V4-MD' //script link
 global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = "MΛDΣ BY LORD TILONX"
 global.creator = "923184070915@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["923184070915"] // Premium User
