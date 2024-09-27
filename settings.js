@@ -26,7 +26,7 @@
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: ahmmikun
 //Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
+//GitHub: @Tilonx
 //WhatsApp: +233598275873
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
@@ -47,7 +47,7 @@ global.location = "Ghana, , Accra" //ur location
 global.botname = 'XLICON-V4-MD' //ur bot name
 global.ownernumber = ['233598275873'] //ur owner number, dont add more than one
 global.ownername = LORD TILONX' //ur owner name
-global.websitex = "https://youtube.com/@s4salmanyt"
+global.websitex = "https://youtube.com/@Tilonx"
 global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 global.themeemoji = '⛩'
 global.wm = "Xlicon Bot Inc."
